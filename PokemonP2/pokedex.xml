@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Pokedex>
+    <Pokedex id="18">
+        <Nome>Torchic</Nome>
+        <Peso>0.4</Peso>
+        <Misc>Pollo de fuego</Misc>
+    </Pokedex>
+    <Pokedex id="19">
+        <Nome>Combusken</Nome>
+        <Peso>0.9</Peso>
+        <Misc>Gallina de fuego</Misc>
+    </Pokedex>
+    <Pokedex id="20">
+        <Nome>Blaziken</Nome>
+        <Peso>1.9</Peso>
+        <Misc>Gallo de fuego</Misc>
+    </Pokedex>
+    <Pokedex id="21">
+        <Nome>Mudkip</Nome>
+        <Peso>0.4</Peso>
+        <Misc>Salamandra de agua</Misc>
+    </Pokedex>
+    <Pokedex id="22">
+        <Nome>Marshtomp</Nome>
+        <Peso>0.7</Peso>
+        <Misc>Salamandra de agua</Misc>
+    </Pokedex>
+    <Pokedex id="23">
+        <Nome>Swampert</Nome>
+        <Peso>1.5</Peso>
+        <Misc>Salamandra de agua</Misc>
+    </Pokedex>
+    <Pokedex id="24">
+        <Nome>Treecko</Nome>
+        <Peso>0.5</Peso>
+        <Misc>Lagarto de planta</Misc>
+    </Pokedex>
+    <Pokedex id="25">
+        <Nome>Grovyle</Nome>
+        <Peso>0.9</Peso>
+        <Misc>Lagarto de planta</Misc>
+    </Pokedex>
+    <Pokedex id="26">
+        <Nome>Sceptile</Nome>
+        <Peso>1.7</Peso>
+        <Misc>Lagarto de planta</Misc>
+    </Pokedex>
+    <Pokedex id="27">
+        <Nome>Lucario</Nome>
+        <Peso>1.2</Peso>
+        <Misc>Perro luchador</Misc>
+    </Pokedex>
+</Pokedex>

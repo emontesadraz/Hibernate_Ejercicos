@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Adestradores>
+    <Adestrador id="7">
+        <Nome>Ash Ketchum</Nome>
+        <Nacemento>3896-10-01 00:00:00.0</Nacemento>
+    </Adestrador>
+    <Adestrador id="8">
+        <Nome>Misty</Nome>
+        <Nacemento>3896-10-01 00:00:00.0</Nacemento>
+    </Adestrador>
+    <Adestrador id="9">
+        <Nome>Ash Ketchum</Nome>
+        <Nacemento>3896-10-01 00:00:00.0</Nacemento>
+    </Adestrador>
+    <Adestrador id="10">
+        <Nome>Misty</Nome>
+        <Nacemento>3896-10-01 00:00:00.0</Nacemento>
+    </Adestrador>
+</Adestradores>
